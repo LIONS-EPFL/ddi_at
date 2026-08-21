@@ -1,0 +1,13 @@
+functorch
+timm
+attrs
+sacred
+pandas
+scipy>=1.4.1
+sklearn
+matplotlib
+pytorch_lightning==1.5.5
+lightning-bolts==0.4.0
+wandb>=0.12.7
+gym
+torchattacks
